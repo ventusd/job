@@ -1,0 +1,10 @@
+{
+  "name": "job-scraper",
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.46.0"
+  },
+  "scripts": {
+    "scrape": "node scrape.mjs"
+  }
+}
